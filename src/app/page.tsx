@@ -19,9 +19,9 @@ export default function Home() {
         </div>
         <div className="flex justify-center">
           <div className="ml-[220px]">
-            <h1 className="text-[60px] mt-[180px] whitespace-[nowrwap]">
+            <h1 className="text-[63px] mt-[200px] whitespace-[nowrwap]">
               Enjoy Delicious
-              <br /> Food in{" "}
+              <br /> Food in
               <span className="text-amber-400">Healthy Life</span>
             </h1>
             <p className="text-[21px] mt-[40px]">
@@ -286,6 +286,15 @@ export default function Home() {
               <p className="text-[15px]">Fast Food</p>
               <p className="text-[15px]">Drinks</p>
             </div>
+            </div>
+            <div className="bg-yellow-500 text-slate-50 pr-[20px] flex gap-[200px] pl-[410px] text-[16px] pt-[20px] pb-[15px] w-[119%]">
+              <p className="ml-[230px]">Copyright 2021 Besnik All Right Reserved</p>
+              <div className="flex gap-[100px] ml-[80px]">
+              <p>Terms</p>
+              <p>Privacy</p>
+              <p>Security</p>
+              </div>
+             
             </div>
         </div>
     </main>
